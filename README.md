@@ -34,6 +34,15 @@ Hacker News Discussion
 https://news.ycombinator.com/item?id=12245909
 
 
+Cheat Sheets to link to:
+- maven (rebellabs)
+- sql (rebellabs)
+- intellij idea mac os x keymap
+- git (nina jaeschke ninagrafik.com, rebellabs, atlassian)
+- Java Streams (rebellabs)
+- Java 8 Best Practicies (rebellabs)
+
+
 Things to keep track of when being interviewed.
 
 The two questions I ask every interviewer
