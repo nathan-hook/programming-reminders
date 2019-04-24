@@ -6,6 +6,9 @@ https://github.com/kdeldycke/awesome-falsehood
 Let’s talk about usernames
 https://www.b-list.org/weblog/2018/feb/11/usernames/
 
+Everything you ever wanted to know about building a secure password reset feature
+https://www.troyhunt.com/everything-you-ever-wanted-to-know/
+
 The traits of a proficient programmer
 https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer
 
