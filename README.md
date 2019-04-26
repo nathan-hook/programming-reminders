@@ -45,6 +45,9 @@ Cheat Sheets to link to:
 
 Things to keep track of when being interviewed.
 
+Interview Cake
+https://www.interviewcake.com/
+
 The two questions I ask every interviewer
 http://blog.wesleyac.com/posts/two-interview-questions
 https://news.ycombinator.com/item?id=15599111
