@@ -15,6 +15,9 @@ https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer
 The mythical 10x programmer
 http://antirez.com/news/112
 
+Laws, Theories, Principles and Patterns that developers will find useful.
+https://github.com/dwmkerr/hacker-laws
+
 
 Things to keep track of when making user interfaces.
 
