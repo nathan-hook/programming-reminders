@@ -61,3 +61,9 @@ https://news.ycombinator.com/item?id=14219500
 
 Ask HN: What are good software architecture interview questions?
 https://news.ycombinator.com/item?id=13472279
+
+
+Quick Company Links
+
+My Brand New Logo
+https://mybrandnewlogo.com/
