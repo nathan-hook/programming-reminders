@@ -2,6 +2,9 @@ Things to keep track of as a professional application developer and consultant..
 
 A lightly currated list of things for me to remember over time.
 
+Github Markdown Cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Curated list of falsehoods programmers believe in.
 https://github.com/kdeldycke/awesome-falsehood
 
