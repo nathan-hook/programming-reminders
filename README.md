@@ -1,4 +1,4 @@
-Things to keep track of when programming.
+Things to keep track of as a professional application developer and consultant...
 
 Curated list of falsehoods programmers believe in.
 https://github.com/kdeldycke/awesome-falsehood
@@ -18,6 +18,15 @@ http://antirez.com/news/112
 Laws, Theories, Principles and Patterns that developers will find useful.
 https://github.com/dwmkerr/hacker-laws
 
+Database
+About Pool Sizing
+https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
+
+Hacker News Discussion
+https://news.ycombinator.com/item?id=18425923
+
+How to Manage Connections Efficiently in Postgres, or Any Database
+https://brandur.org/postgres-connections
 
 Things to keep track of when making user interfaces.
 
