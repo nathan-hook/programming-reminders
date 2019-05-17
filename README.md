@@ -50,6 +50,23 @@ http://performantcode.com/web/do-you-really-know-cors
 
 Git
 
+Commit Often, Perfect Later, Publish Once: Git Best Practices
+https://sethrobertson.github.io/GitBestPractices/
+
+Tips for a disciplined git workflow
+https://drewdevault.com/2019/02/25/Using-git-with-discipline.html
+
+Cheat sheet: How to use Git
+https://codevog.com/de/blog/2016-03-24-cheat-sheet-how-to-use-it
+
+Git Cheat Sheet
+https://gist.github.com/jedmao/5053440
+
+Git Cheat Sheet: Commands and Best Practices
+https://jrebel.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
+
+https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+
 Write good git commit message
 https://juffalow.com/other/write-good-git-commit-message
 
