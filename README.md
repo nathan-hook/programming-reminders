@@ -5,6 +5,9 @@ A lightly currated list of things for me to remember over time.
 Github Markdown Cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Basic writing and formatting syntax
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links
+
 Curated list of falsehoods programmers believe in.
 https://github.com/kdeldycke/awesome-falsehood
 
