@@ -19,6 +19,7 @@ Laws, Theories, Principles and Patterns that developers will find useful.
 https://github.com/dwmkerr/hacker-laws
 
 Database
+
 About Pool Sizing
 https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
 
