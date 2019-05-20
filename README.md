@@ -31,6 +31,8 @@ Clean Code / Code Quality
 How To Write Unmaintainable Code
 https://github.com/Droogans/unmaintainable-code
 
+S.O.L.I.D. Software Development, One Step at a Time
+https://www.codemag.com/article/1001061
 
 Database
 
