@@ -37,6 +37,9 @@ https://github.com/Droogans/unmaintainable-code
 S.O.L.I.D. Software Development, One Step at a Time
 https://www.codemag.com/article/1001061
 
+Test-Driven Development: Really, It’s a Design Technique
+https://www.infoq.com/articles/test-driven-design-java/
+
 Database
 
 About Pool Sizing
