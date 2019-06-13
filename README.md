@@ -40,6 +40,14 @@ https://www.codemag.com/article/1001061
 Test-Driven Development: Really, It’s a Design Technique
 https://www.infoq.com/articles/test-driven-design-java/
 
+Technical Debt
+https://martinfowler.com/bliki/TechnicalDebt.html
+
+HTTP
+
+HTTP headers for the responsible developer
+https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
+
 Database
 
 About Pool Sizing
@@ -69,6 +77,12 @@ https://sethrobertson.github.io/GitBestPractices/
 
 Tips for a disciplined git workflow
 https://drewdevault.com/2019/02/25/Using-git-with-discipline.html
+
+More productive Git
+https://increment.com/open-source/more-productive-git/
+
+Oh shit, git!
+https://ohshitgit.com/
 
 Cheat sheet: How to use Git
 https://codevog.com/de/blog/2016-03-24-cheat-sheet-how-to-use-it
