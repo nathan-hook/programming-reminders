@@ -17,6 +17,9 @@ https://www.b-list.org/weblog/2018/feb/11/usernames/
 Falsehoods Programmers Believe About Search
 https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/
 
+Why are the username and password on two different pages?
+https://www.twilio.com/blog/why-username-and-password-on-two-different-pages
+
 Everything you ever wanted to know about building a secure password reset feature
 https://www.troyhunt.com/everything-you-ever-wanted-to-know/
 
