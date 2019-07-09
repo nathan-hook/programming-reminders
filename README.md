@@ -43,6 +43,12 @@ https://www.codemag.com/article/1001061
 Test-Driven Development: Really, It’s a Design Technique
 https://www.infoq.com/articles/test-driven-design-java/
 
+Test-driven development: Theory and Practice
+https://blog.codecentric.de/en/2019/06/test-driven-development-theory-practice/
+
+Emphasis is mine.
+> In fact, these two concerns (test coverage and product quality) are independent: one can easily imagine a high-quality system running in production, delivering a lot of value to its users, and not having a single automated test at all – just delete all the tests after deploying and completing extensive validation of the system. On the other hand, **it is conceivable to achieve 100% test coverage and have an extremely brittle or unusable system; in this case the tests do not provide any value at all, and are just as useless as the system itself.**
+
 Technical Debt
 https://martinfowler.com/bliki/TechnicalDebt.html
 
