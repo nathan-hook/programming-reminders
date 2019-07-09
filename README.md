@@ -61,6 +61,11 @@ Emphasis is mine.
 Technical Debt
 https://martinfowler.com/bliki/TechnicalDebt.html
 
+User Interface
+
+10 Usability Heuristics for User Interface Design
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
 HTTP
 
 HTTP headers for the responsible developer
