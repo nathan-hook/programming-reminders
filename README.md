@@ -6,7 +6,7 @@ Github Markdown Cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Basic writing and formatting syntax
-https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 Curated list of falsehoods programmers believe in.
 https://github.com/kdeldycke/awesome-falsehood
@@ -23,8 +23,17 @@ https://www.twilio.com/blog/why-username-and-password-on-two-different-pages
 Everything you ever wanted to know about building a secure password reset feature
 https://www.troyhunt.com/everything-you-ever-wanted-to-know/
 
+The Tech Lead’s New Project Checklist
+https://insimpleterms.blog/the-tech-leads-new-project-checklist
+
 The traits of a proficient programmer
 https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer
+
+The fine art of fast development
+https://hackernoon.com/the-fine-art-of-fast-development-f3b1abb509da
+
+Humility in Software Development
+https://www.mattblodgett.com/2016/09/humility-in-software-development.html
 
 The mythical 10x programmer
 http://antirez.com/news/112
