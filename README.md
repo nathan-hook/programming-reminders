@@ -32,6 +32,9 @@ https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer
 The fine art of fast development
 https://hackernoon.com/the-fine-art-of-fast-development-f3b1abb509da
 
+7 Skills of Highly Effective Programmers
+https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33
+
 Humility in Software Development
 https://www.mattblodgett.com/2016/09/humility-in-software-development.html
 
@@ -60,14 +63,6 @@ Emphasis is mine.
 
 Technical Debt
 https://martinfowler.com/bliki/TechnicalDebt.html
-
-User Interface
-
-10 Usability Heuristics for User Interface Design
-https://www.nngroup.com/articles/ten-usability-heuristics/
-
-Remove password masking
-http://passwordmasking.com/
 
 HTTP
 
@@ -130,10 +125,31 @@ https://news.ycombinator.com/item?id=18663032
 XKCD
 https://xkcd.com/1296/, https://xkcd.com/1597/, 
 
-Things to keep track of when making user interfaces.
+Docker
+
+Broken by default: why you should avoid most Dockerfile examples
+https://pythonspeed.com/articles/dockerizing-python-is-hard/
+
+
+User Interface
+
+10 Usability Heuristics for User Interface Design
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
+Fundamental design principles for non-designers
+https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/
+
+Remove password masking
+http://passwordmasking.com/
 
 Rules for Autocomplete
 http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html
+
+Public Sans
+https://public-sans.digital.gov/
+
+Public Sans - Github
+https://github.com/uswds/public-sans/blob/master/README.md#design-principles
 
 
 Things to keep track of for accessability.
@@ -209,3 +225,6 @@ Quick Company Links
 
 My Brand New Logo
 https://mybrandnewlogo.com/
+
+HOW TO REGISTER A COMPANY IN THE USA: COMPREHENSIVE GUIDE FOR FOUNDERS
+http://aynuriev.com/how-to-register-company-usa/
