@@ -130,6 +130,9 @@ Docker
 Broken by default: why you should avoid most Dockerfile examples
 https://pythonspeed.com/articles/dockerizing-python-is-hard/
 
+Intro Guide to Dockerfile Best Practices
+https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/
+
 
 User Interface
 
