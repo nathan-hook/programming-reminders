@@ -133,6 +133,8 @@ https://pythonspeed.com/articles/dockerizing-python-is-hard/
 Intro Guide to Dockerfile Best Practices
 https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/
 
+Hacker News Discussion
+https://news.ycombinator.com/item?id=20381388
 
 User Interface
 
