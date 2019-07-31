@@ -2,11 +2,7 @@ Things to keep track of as a professional application developer and consultant..
 
 A lightly currated list of things for me to remember over time.
 
-Github Markdown Cheatsheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-Basic writing and formatting syntax
-https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+# Programming is Hard
 
 Curated list of falsehoods programmers believe in.
 https://github.com/kdeldycke/awesome-falsehood
@@ -44,7 +40,8 @@ http://antirez.com/news/112
 Laws, Theories, Principles and Patterns that developers will find useful.
 https://github.com/dwmkerr/hacker-laws
 
-Clean Code / Code Quality
+
+# Clean Code / Code Quality
 
 How To Write Unmaintainable Code
 https://github.com/Droogans/unmaintainable-code
@@ -64,12 +61,37 @@ Emphasis is mine.
 Technical Debt
 https://martinfowler.com/bliki/TechnicalDebt.html
 
-HTTP
+
+# Scrum/Scrum Master/Agile
+
+Backlog Grooming Bugs Me
+https://www.jpattonassociates.com/backlog-grooming-bugs-me/
+
+How ICE Score Method Helps to Choose Better Product Features
+https://hygger.io/blog/ice-method-helps-choose-better-product-features/
+
+RICE Scoring: Quick Prioritization for Product Managers
+https://hygger.io/blog/4-powerful-factors-rice-scoring-model/
+
+# HTTP
 
 HTTP headers for the responsible developer
 https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
 
-Database
+HOW HTTPS WORKS
+https://howhttps.works
+
+
+# Web Development
+
+Certificates for localhost
+https://letsencrypt.org/docs/certificates-for-localhost/
+
+Do You Really Know CORS?
+http://performantcode.com/web/do-you-really-know-cors
+
+
+# Database
 
 About Pool Sizing
 https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
@@ -80,18 +102,15 @@ https://news.ycombinator.com/item?id=18425923
 How to Manage Connections Efficiently in Postgres, or Any Database
 https://brandur.org/postgres-connections
 
-Web Development
 
-HOW HTTPS WORKS
-https://howhttps.works
+# Git
 
-Certificates for localhost
-https://letsencrypt.org/docs/certificates-for-localhost/
+Github Markdown Cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Do You Really Know CORS?
-http://performantcode.com/web/do-you-really-know-cors
+Basic writing and formatting syntax
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
-Git
 
 Commit Often, Perfect Later, Publish Once: Git Best Practices
 https://sethrobertson.github.io/GitBestPractices/
@@ -125,7 +144,8 @@ https://news.ycombinator.com/item?id=18663032
 XKCD
 https://xkcd.com/1296/, https://xkcd.com/1597/, 
 
-Docker
+
+# Docker
 
 Broken by default: why you should avoid most Dockerfile examples
 https://pythonspeed.com/articles/dockerizing-python-is-hard/
@@ -136,7 +156,8 @@ https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/
 Hacker News Discussion
 https://news.ycombinator.com/item?id=20381388
 
-User Interface
+
+# User Interface/User Experience
 
 10 Usability Heuristics for User Interface Design
 https://www.nngroup.com/articles/ten-usability-heuristics/
@@ -157,7 +178,7 @@ Public Sans - Github
 https://github.com/uswds/public-sans/blob/master/README.md#design-principles
 
 
-Things to keep track of for accessability.
+# Things to keep track of for accessability.
 
 The easiest way to keep your web apps accessible: Just use text
 https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a
@@ -170,6 +191,7 @@ https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-you
 Hacker News Discussion
 https://news.ycombinator.com/item?id=12245909
 
+# Other
 
 Cheat Sheets to link to:
 - maven (rebellabs)
@@ -180,7 +202,7 @@ Cheat Sheets to link to:
 - Java 8 Best Practicies (rebellabs)
 
 
-interviewed
+# Being Interviewed
 
 Interview Cake
 https://www.interviewcake.com/
@@ -202,7 +224,8 @@ https://www.hackerrank.com/
 HackerRank-Solutions
 https://github.com/glenmccallumcan/HackerRank-Solutions
 
-Interviewing
+
+# Interviewing Others
 
 Refactoring Backend Engineering Hiring at Slack
 https://slack.engineering/refactoring-backend-engineering-hiring-at-slack-b53b1e0e7a3c
@@ -226,7 +249,7 @@ Why we re-designed our engineering career paths at CircleCI
 https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/
 
 
-Quick Company Links
+# Quick Company Links
 
 My Brand New Logo
 https://mybrandnewlogo.com/
