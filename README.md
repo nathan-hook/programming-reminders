@@ -178,12 +178,13 @@ Public Sans - Github
 https://github.com/uswds/public-sans/blob/master/README.md#design-principles
 
 
-# Things to keep track of for accessability.
+# Website Accessability
 
 The easiest way to keep your web apps accessible: Just use text
 https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a
 
-Things to keep track of for distributed systems.
+
+# Distributed Systems
 
 Notes on Distributed Systems for Young Bloods
 https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
@@ -191,7 +192,7 @@ https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-you
 Hacker News Discussion
 https://news.ycombinator.com/item?id=12245909
 
-# Other
+# Cheat Sheets
 
 Cheat Sheets to link to:
 - maven (rebellabs)
