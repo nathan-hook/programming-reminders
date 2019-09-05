@@ -61,6 +61,11 @@ Emphasis is mine.
 Technical Debt
 https://martinfowler.com/bliki/TechnicalDebt.html
 
+Code Smells
+https://blog.codinghorror.com/code-smells/
+
+A Taxonomy for "Bad Code Smells"
+http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
 
 # Scrum/Scrum Master/Agile
 
