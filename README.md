@@ -67,6 +67,31 @@ https://blog.codinghorror.com/code-smells/
 A Taxonomy for "Bad Code Smells"
 http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
 
+# Hibernate
+Caching is harder than expected to setup:
+Hibernate EhCache Configuration Tutorial
+https://howtodoinjava.com/hibernate/hibernate-ehcache-configuration-tutorial/
+
+Caching
+https://docs.jboss.org/hibernate/orm/5.1/userguide/html_single/chapters/caching/Caching.html
+
+When and how to use hibernate second level cache?
+https://stackoverflow.com/questions/7058843/when-and-how-to-use-hibernate-second-level-cache
+
+Hibernate Second Level Cache
+https://www.javatpoint.com/hibernate-second-level-cache
+
+A database connection does not equal a hibernate session:
+
+This stack overflow post states that there is one database connection per hibernate session, but I believe that is no longer true.  The accepted answer was written in 2013.
+Number of Hibernate Sessions Per Request or Per User?
+https://stackoverflow.com/questions/19180358/number-of-hibernate-sessions-per-request-or-per-user
+
+However, after 2013 hibernate introduced a more aggressive database release mode.  AFTER_STATEMENT
+
+hibernate.connection.release_mode
+https://www.roseindia.net/hibernate/hibernate4/hibernate_connection_release_mode.shtml
+
 # Scrum/Scrum Master/Agile
 
 Backlog Grooming Bugs Me
