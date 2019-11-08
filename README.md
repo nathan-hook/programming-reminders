@@ -72,6 +72,8 @@ http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
 yUML
 https://yuml.me/diagram/scruffy/class/draw
 
+LucidChart
+https://www.lucidchart.com/
 
 
 # Hibernate
