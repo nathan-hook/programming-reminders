@@ -67,6 +67,13 @@ https://blog.codinghorror.com/code-smells/
 A Taxonomy for "Bad Code Smells"
 http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
 
+# UML / Database Online Design Tools
+
+yUML
+https://yuml.me/diagram/scruffy/class/draw
+
+
+
 # Hibernate
 Caching is harder than expected to setup:
 Hibernate EhCache Configuration Tutorial
@@ -119,6 +126,12 @@ https://letsencrypt.org/docs/certificates-for-localhost/
 
 Do You Really Know CORS?
 http://performantcode.com/web/do-you-really-know-cors
+
+
+# Web Design
+
+Color Brewer 2.0
+http://colorbrewer2.org/#type=sequential&scheme=OrRd&n=9
 
 
 # Database
