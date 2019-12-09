@@ -270,6 +270,9 @@ https://www.hackerrank.com/
 HackerRank-Solutions
 https://github.com/glenmccallumcan/HackerRank-Solutions
 
+Job negotiation for programmers: the basic principles
+https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/
+
 
 # Interviewing Others
 
