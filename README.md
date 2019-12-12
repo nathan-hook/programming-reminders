@@ -77,6 +77,7 @@ https://www.lucidchart.com/
 
 
 # Hibernate
+
 Caching is harder than expected to setup:
 Hibernate EhCache Configuration Tutorial
 https://howtodoinjava.com/hibernate/hibernate-ehcache-configuration-tutorial/
@@ -221,6 +222,15 @@ https://public-sans.digital.gov/
 
 Public Sans - Github
 https://github.com/uswds/public-sans/blob/master/README.md#design-principles
+
+
+# Javascript Charts
+
+CHART.XKCD
+https://timqian.com/chart.xkcd/
+
+roughViz - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+https://github.com/jwilber/roughViz
 
 
 # Website Accessability
