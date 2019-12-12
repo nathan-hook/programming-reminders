@@ -305,3 +305,8 @@ https://mybrandnewlogo.com/
 
 HOW TO REGISTER A COMPANY IN THE USA: COMPREHENSIVE GUIDE FOR FOUNDERS
 http://aynuriev.com/how-to-register-company-usa/
+
+
+# Other Folks Links
+My Personal Linklog
+http://msaavedra.com/posts/my-personal-linklog/
