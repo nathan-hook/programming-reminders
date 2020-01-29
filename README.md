@@ -130,6 +130,9 @@ https://letsencrypt.org/docs/certificates-for-localhost/
 Do You Really Know CORS?
 http://performantcode.com/web/do-you-really-know-cors
 
+API Practices If You Hate Your Customers
+https://queue.acm.org/detail.cfm?id=3375635
+
 
 # Web Design
 
