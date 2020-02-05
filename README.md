@@ -133,6 +133,9 @@ http://performantcode.com/web/do-you-really-know-cors
 API Practices If You Hate Your Customers
 https://queue.acm.org/detail.cfm?id=3375635
 
+Scaling to 100k Users
+https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
+
 
 # Web Design
 
