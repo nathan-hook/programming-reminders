@@ -326,3 +326,6 @@ http://aynuriev.com/how-to-register-company-usa/
 # Other Folks Links
 My Personal Linklog
 http://msaavedra.com/posts/my-personal-linklog/
+
+The Motherboard Guide to Not Getting Hacked
+https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
