@@ -314,6 +314,10 @@ Why we re-designed our engineering career paths at CircleCI
 https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/
 
 
+# Work Life Balance
+It is perfectly OK to only code at work, you can have a life too
+https://zeroequalsfalse.com/posts/it-is-ok-to-only-code-at-work/
+
 # Quick Company Links
 
 My Brand New Logo
