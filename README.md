@@ -113,6 +113,7 @@ https://hygger.io/blog/ice-method-helps-choose-better-product-features/
 RICE Scoring: Quick Prioritization for Product Managers
 https://hygger.io/blog/4-powerful-factors-rice-scoring-model/
 
+
 # HTTP
 
 HTTP headers for the responsible developer
@@ -141,6 +142,17 @@ https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
 
 Color Brewer 2.0
 http://colorbrewer2.org/#type=sequential&scheme=OrRd&n=9
+
+
+# API Design
+
+Java API Design Checklist
+https://theamiableapi.com/2012/01/16/java-api-design-checklist/
+
+API Design With Java 8
+https://dzone.com/articles/the-java-8-api-design-principles
+
+This article references the Java API Design Checklist above.
 
 
 # Database
