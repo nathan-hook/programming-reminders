@@ -140,6 +140,13 @@ https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
 Web Architecture 101
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 
+Smart PNG and JPEG compression
+https://tinypng.com/
+
+Hemingway App makes your writing bold and clear.
+http://www.hemingwayapp.com/
+
+
 # Web Design
 
 Color Brewer 2.0
