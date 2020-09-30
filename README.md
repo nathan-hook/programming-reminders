@@ -294,6 +294,9 @@ The two questions I ask every interviewer
 http://blog.wesleyac.com/posts/two-interview-questions
 https://news.ycombinator.com/item?id=15599111
 
+Ask a Manager
+https://www.askamanager.org/topics
+
 Why I Don't Prepare For Job Interviews
 https://dev.to/pbeekums/why-i-dont-prepare-for-job-interviews
 https://news.ycombinator.com/item?id=14219500
