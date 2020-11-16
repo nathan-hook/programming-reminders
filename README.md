@@ -40,6 +40,9 @@ http://antirez.com/news/112
 Laws, Theories, Principles and Patterns that developers will find useful.
 https://github.com/dwmkerr/hacker-laws
 
+All software advice is wrong
+https://mdswanson.com/blog/2020/10/31/every-article-about-software-is-wrong.html
+
 
 # Clean Code / Code Quality
 
@@ -66,6 +69,7 @@ https://blog.codinghorror.com/code-smells/
 
 A Taxonomy for "Bad Code Smells"
 http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
+
 
 # UML / Database Online Design Tools
 
@@ -147,6 +151,10 @@ Hemingway App makes your writing bold and clear.
 http://www.hemingwayapp.com/
 
 
+# Web Api Design
+
+
+
 # Web Design
 
 Color Brewer 2.0
@@ -164,6 +172,15 @@ https://dzone.com/articles/the-java-8-api-design-principles
 This article references the Java API Design Checklist above.
 
 
+# Deployment
+
+12 Factor Apps with Spring Boot
+https://reflectoring.io/spring-boot-12-factor-app/
+
+Java Microservices: A Practical Guide
+https://www.marcobehler.com/guides/java-microservices-a-practical-guide
+
+
 # Database
 
 About Pool Sizing
@@ -174,6 +191,9 @@ https://news.ycombinator.com/item?id=18425923
 
 How to Manage Connections Efficiently in Postgres, or Any Database
 https://brandur.org/postgres-connections
+
+MY ADVICE TO DEVELOPERS ABOUT WORKING WITH DATABASES: MAKE IT SECURE
+https://techblog.bozho.net/my-advice-to-developers-about-working-with-databases-make-it-secure/
 
 
 # Git
