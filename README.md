@@ -120,6 +120,10 @@ https://hygger.io/blog/ice-method-helps-choose-better-product-features/
 RICE Scoring: Quick Prioritization for Product Managers
 https://hygger.io/blog/4-powerful-factors-rice-scoring-model/
 
+# Mentoring
+
+The Art of Scholarly Mentoring
+https://www.insidehighered.com/advice/2021/01/26/nobel-laureate-shares-10-rules-being-effective-mentor-young-research-scholars
 
 # HTTP
 
@@ -374,7 +378,7 @@ HOW TO REGISTER A COMPANY IN THE USA: COMPREHENSIVE GUIDE FOR FOUNDERS
 http://aynuriev.com/how-to-register-company-usa/
 
 
-# Other Folks Links
+# Links to Other Folk's Links
 My Personal Linklog
 http://msaavedra.com/posts/my-personal-linklog/
 
