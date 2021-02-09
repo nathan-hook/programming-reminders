@@ -74,7 +74,7 @@ A Taxonomy for "Bad Code Smells"
 http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
 
 
-# UML / Database Online Design Tools
+# UML / Database Design Tools
 
 yUML
 https://yuml.me/diagram/scruffy/class/draw
@@ -82,6 +82,10 @@ https://yuml.me/diagram/scruffy/class/draw
 LucidChart
 https://www.lucidchart.com/
 
+Documenting your relational database using SchemaSpy
+
+This is kind of cool because there is a docker image that allows you to run all the tools without having to install any of the tools.
+https://tech.asimio.net/2020/11/27/Documenting-your-relational-database-using-SchemaSpy.html
 
 # Hibernate
 
