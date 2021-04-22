@@ -43,6 +43,9 @@ http://antirez.com/news/112
 Laws, Theories, Principles and Patterns that developers will find useful.
 https://github.com/dwmkerr/hacker-laws
 
+big-list-of-naughty-strings
+https://github.com/minimaxir/big-list-of-naughty-strings
+
 All software advice is wrong
 https://mdswanson.com/blog/2020/10/31/every-article-about-software-is-wrong.html
 
