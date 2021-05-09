@@ -352,6 +352,9 @@ https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/
 
 # Interviewing Others
 
+The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance
+https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews
+
 Refactoring Backend Engineering Hiring at Slack
 https://slack.engineering/refactoring-backend-engineering-hiring-at-slack-b53b1e0e7a3c
 
