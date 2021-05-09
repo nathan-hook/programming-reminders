@@ -209,6 +209,8 @@ https://brandur.org/postgres-connections
 MY ADVICE TO DEVELOPERS ABOUT WORKING WITH DATABASES: MAKE IT SECURE
 https://techblog.bozho.net/my-advice-to-developers-about-working-with-databases-make-it-secure/
 
+Things I Wished More Developers Knew About Databases
+https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78
 
 # Git
 
