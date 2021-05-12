@@ -174,6 +174,8 @@ http://www.hemingwayapp.com/
 Color Brewer 2.0
 http://colorbrewer2.org/#type=sequential&scheme=OrRd&n=9
 
+Things I Wish I’d Known About CSS
+https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
 
 # API Design
 
