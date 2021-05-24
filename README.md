@@ -392,7 +392,7 @@ HOW TO REGISTER A COMPANY IN THE USA: COMPREHENSIVE GUIDE FOR FOUNDERS
 http://aynuriev.com/how-to-register-company-usa/
 
 
-# Links to Other Folk's Links
+# Links to Other Folk's Curated Links
 My Personal Linklog
 http://msaavedra.com/posts/my-personal-linklog/
 
