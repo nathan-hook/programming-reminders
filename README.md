@@ -171,11 +171,20 @@ http://www.hemingwayapp.com/
 
 # Web Design
 
+Adobe Color
+https://color.adobe.com/create/color-wheel
+
 Color Brewer 2.0
 http://colorbrewer2.org/#type=sequential&scheme=OrRd&n=9
 
 Things I Wish I’d Known About CSS
 https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+
+Learn CSS
+https://web.dev/learn/css/
+
+HTML 5 Cheat Sheet
+https://websitesetup.org/html5-cheat-sheet/
 
 # API Design
 
@@ -321,6 +330,7 @@ Cheat Sheets to link to:
 - git (nina jaeschke ninagrafik.com, rebellabs, atlassian)
 - Java Streams (rebellabs)
 - Java 8 Best Practicies (rebellabs)
+- HTML 5 https://websitesetup.org/html5-cheat-sheet/
 
 
 # Being Interviewed
