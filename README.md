@@ -8,44 +8,31 @@ A lightly currated list of things for me to remember over time.
 
 [Curated list of falsehoods programmers believe in.](https://github.com/kdeldycke/awesome-falsehood)
 
-Let’s talk about usernames
-https://www.b-list.org/weblog/2018/feb/11/usernames/
+[Let’s talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/)
 
-Falsehoods Programmers Believe About Search
-https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/
+[Falsehoods Programmers Believe About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 
-Why are the username and password on two different pages?
-https://www.twilio.com/blog/why-username-and-password-on-two-different-pages
+[Why are the username and password on two different pages?](https://www.twilio.com/blog/why-username-and-password-on-two-different-pages)
 
-Everything you ever wanted to know about building a secure password reset feature
-https://www.troyhunt.com/everything-you-ever-wanted-to-know/
+[Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
 
-The Tech Lead’s New Project Checklist
-https://insimpleterms.blog/the-tech-leads-new-project-checklist
+[The Tech Lead’s New Project Checklist](https://insimpleterms.blog/the-tech-leads-new-project-checklist)
 
-The traits of a proficient programmer
-https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer
+[The traits of a proficient programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
 
-The fine art of fast development
-https://hackernoon.com/the-fine-art-of-fast-development-f3b1abb509da
+[The fine art of fast development](https://hackernoon.com/the-fine-art-of-fast-development-f3b1abb509da)
 
-7 Skills of Highly Effective Programmers
-https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33
+[7 Skills of Highly Effective Programmers](https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33)
 
-Humility in Software Development
-https://www.mattblodgett.com/2016/09/humility-in-software-development.html
+[Humility in Software Development](https://www.mattblodgett.com/2016/09/humility-in-software-development.html)
 
-The mythical 10x programmer
-http://antirez.com/news/112
+[The mythical 10x programmer](http://antirez.com/news/112)
 
-Laws, Theories, Principles and Patterns that developers will find useful.
-https://github.com/dwmkerr/hacker-laws
+[Laws, Theories, Principles and Patterns that developers will find useful.](https://github.com/dwmkerr/hacker-laws)
 
-big-list-of-naughty-strings
-https://github.com/minimaxir/big-list-of-naughty-strings
+[big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 
-All software advice is wrong
-https://mdswanson.com/blog/2020/10/31/every-article-about-software-is-wrong.html
+[All software advice is wrong](https://mdswanson.com/blog/2020/10/31/every-article-about-software-is-wrong.html)
 
 
 # Clean Code / Code Quality
