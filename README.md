@@ -4,11 +4,9 @@ A lightly currated list of things for me to remember over time.
 
 # Programming is Hard
 
-Every Programmer Should Know
-https://github.com/mtdvio/every-programmer-should-know
+[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
-Curated list of falsehoods programmers believe in.
-https://github.com/kdeldycke/awesome-falsehood
+[Curated list of falsehoods programmers believe in.](https://github.com/kdeldycke/awesome-falsehood)
 
 Let’s talk about usernames
 https://www.b-list.org/weblog/2018/feb/11/usernames/
