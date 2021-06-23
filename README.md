@@ -315,7 +315,7 @@ Cheat Sheets to link to:
 - git (nina jaeschke ninagrafik.com, rebellabs, atlassian)
 - Java Streams (rebellabs)
 - Java 8 Best Practicies (rebellabs)
-- HTML 5 https://websitesetup.org/html5-cheat-sheet/
+- [HTML5](https://websitesetup.org/html5-cheat-sheet/)
 
 
 # Being Interviewed
