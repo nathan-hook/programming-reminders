@@ -125,6 +125,12 @@ https://hygger.io/blog/ice-method-helps-choose-better-product-features/
 RICE Scoring: Quick Prioritization for Product Managers
 https://hygger.io/blog/4-powerful-factors-rice-scoring-model/
 
+[On the importance of a Team Manifesto](https://blog.scottlogic.com/2021/01/26/on-the-importance-of-a-team-manifesto.html)
+
+## Retro Ideas
+
+[Uncovering Better Ways](https://benjiweber.co.uk/blog/2021/07/03/uncovering-better-ways/)
+
 # Mentoring
 
 The Art of Scholarly Mentoring
