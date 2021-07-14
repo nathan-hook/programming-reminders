@@ -37,43 +37,43 @@ A lightly currated list of things for me to remember over time.
 
 # Clean Code / Code Quality
 
-How To Write Unmaintainable Code
-https://github.com/Droogans/unmaintainable-code
+[How To Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code)
 
-S.O.L.I.D. Software Development, One Step at a Time
-https://www.codemag.com/article/1001061
+[S.O.L.I.D. Software Development, One Step at a Time](https://www.codemag.com/article/1001061)
 
-Test-Driven Development: Really, It’s a Design Technique
-https://www.infoq.com/articles/test-driven-design-java/
+[Test-Driven Development: Really, It’s a Design Technique](https://www.infoq.com/articles/test-driven-design-java/)
 
-Test-driven development: Theory and Practice
-https://blog.codecentric.de/en/2019/06/test-driven-development-theory-practice/
+[Test-driven development: Theory and Practice](https://blog.codecentric.de/en/2019/06/test-driven-development-theory-practice/)
 
 Emphasis is mine.
 > In fact, these two concerns (test coverage and product quality) are independent: one can easily imagine a high-quality system running in production, delivering a lot of value to its users, and not having a single automated test at all – just delete all the tests after deploying and completing extensive validation of the system. On the other hand, **it is conceivable to achieve 100% test coverage and have an extremely brittle or unusable system; in this case the tests do not provide any value at all, and are just as useless as the system itself.**
 
-Technical Debt
-https://martinfowler.com/bliki/TechnicalDebt.html
+[Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 
-Code Smells
-https://blog.codinghorror.com/code-smells/
+[Code Smells](https://blog.codinghorror.com/code-smells/)
 
-A Taxonomy for "Bad Code Smells"
-http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
+[A Taxonomy for "Bad Code Smells"](http://mikamantyla.eu/BadCodeSmellsTaxonomy.html)
 
 
 # UML / Database Design Tools
 
-yUML
-https://yuml.me/diagram/scruffy/class/draw
+[yUML](https://yuml.me/diagram/scruffy/class/draw)
 
-LucidChart
-https://www.lucidchart.com/
+[LucidChart](https://www.lucidchart.com/)
 
 Documenting your relational database using SchemaSpy
 
 This is kind of cool because there is a docker image that allows you to run all the tools without having to install any of the tools.
 https://tech.asimio.net/2020/11/27/Documenting-your-relational-database-using-SchemaSpy.html
+
+
+# Architecture Diagrams and Tools
+
+[draw.io](https://app.diagrams.net/)
+
+[The 5 Types of Architecture Diagrams](https://betterprogramming.pub/solutions-architect-tips-the-5-types-of-architecture-diagrams-eb0c11996f9e)
+The flow, service, persona, infrastructure, and developer diagram
+
 
 # Hibernate
 
