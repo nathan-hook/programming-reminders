@@ -35,6 +35,19 @@ A lightly currated list of things for me to remember over time.
 [All software advice is wrong](https://mdswanson.com/blog/2020/10/31/every-article-about-software-is-wrong.html)
 
 
+# Security
+
+[OWASP Top 10 Vulnerabilities](https://snyk.io/learn/owasp-top-10-vulnerabilities/)
+
+[10 Java security best practices](https://snyk.io/blog/10-java-security-best-practices/)
+
+[Security Headers](https://securityheaders.com/)
+
+[HTTP Security Headers](https://www.loginradius.com/blog/async/http-security-headers/)
+
+[SSL Server Test](https://www.ssllabs.com/ssltest/)
+
+
 # Clean Code / Code Quality
 
 [How To Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code)
@@ -300,11 +313,7 @@ https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b5
 
 # Distributed Systems
 
-Notes on Distributed Systems for Young Bloods
-https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
-
-Hacker News Discussion
-https://news.ycombinator.com/item?id=12245909
+[Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/), [Hacker News Discussion](https://news.ycombinator.com/item?id=12245909)
 
 # Cheat Sheets
 
