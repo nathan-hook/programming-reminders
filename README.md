@@ -127,6 +127,10 @@ https://hygger.io/blog/4-powerful-factors-rice-scoring-model/
 
 [On the importance of a Team Manifesto](https://blog.scottlogic.com/2021/01/26/on-the-importance-of-a-team-manifesto.html)
 
+[Failure on demand – Scenes from an agile transformation](https://blog.codecentric.de/en/2021/07/failure-on-demand-agile-transformation/)
+
+> The credo must be: Everything and everyone in the company must work toward enabling developers to work effectively and without disruption. Only then can developers focus on creating value for the company and advance the company’s product.
+
 ## Retro Ideas
 
 [Uncovering Better Ways](https://benjiweber.co.uk/blog/2021/07/03/uncovering-better-ways/)
