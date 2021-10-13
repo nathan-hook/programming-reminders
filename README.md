@@ -90,7 +90,9 @@ The flow, service, persona, infrastructure, and developer diagram
 
 # Hibernate
 
-[Spring Transactional Pitfalls (Spring & JPA Pitfalls Series)](https://codete.com/blog/5-common-spring-transactional-pitfalls)
+[Spring Transactional Pitfalls [Spring & JPA Pitfalls Series]](https://codete.com/blog/5-common-spring-transactional-pitfalls)
+
+> The @Transactional annotation is probably the most randomly used annotation in the whole Java development world - and it’s terrifying! 
 
 Caching is harder than expected to setup:
 [Hibernate EhCache Configuration Tutorial](https://howtodoinjava.com/hibernate/hibernate-ehcache-configuration-tutorial/)
