@@ -90,18 +90,16 @@ The flow, service, persona, infrastructure, and developer diagram
 
 # Hibernate
 
+[Spring Transactional Pitfalls (Spring & JPA Pitfalls Series)](https://codete.com/blog/5-common-spring-transactional-pitfalls)
+
 Caching is harder than expected to setup:
-Hibernate EhCache Configuration Tutorial
-https://howtodoinjava.com/hibernate/hibernate-ehcache-configuration-tutorial/
+[Hibernate EhCache Configuration Tutorial](https://howtodoinjava.com/hibernate/hibernate-ehcache-configuration-tutorial/)
 
-Caching
-https://docs.jboss.org/hibernate/orm/5.1/userguide/html_single/chapters/caching/Caching.html
+[Caching](https://docs.jboss.org/hibernate/orm/5.1/userguide/html_single/chapters/caching/Caching.html)
 
-When and how to use hibernate second level cache?
-https://stackoverflow.com/questions/7058843/when-and-how-to-use-hibernate-second-level-cache
+[When and how to use hibernate second level cache?](https://stackoverflow.com/questions/7058843/when-and-how-to-use-hibernate-second-level-cache)
 
-Hibernate Second Level Cache
-https://www.javatpoint.com/hibernate-second-level-cache
+[Hibernate Second Level Cache](https://www.javatpoint.com/hibernate-second-level-cache)
 
 A database connection does not equal a hibernate session:
 
@@ -111,8 +109,7 @@ https://stackoverflow.com/questions/19180358/number-of-hibernate-sessions-per-re
 
 However, after 2013 hibernate introduced a more aggressive database release mode.  AFTER_STATEMENT
 
-hibernate.connection.release_mode
-https://www.roseindia.net/hibernate/hibernate4/hibernate_connection_release_mode.shtml
+[hibernate.connection.release_mode](https://www.roseindia.net/hibernate/hibernate4/hibernate_connection_release_mode.shtml)
 
 # Scrum/Scrum Master/Agile
 
