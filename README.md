@@ -242,44 +242,31 @@ https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2
 
 # Git
 
-Github Markdown Cheatsheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Basic writing and formatting syntax
-https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+[Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
+[Git rebasing: What is it and how can you use it?](https://blog.scottlogic.com/2020/01/09/git-rebasing.html)
 
-Commit Often, Perfect Later, Publish Once: Git Best Practices
-https://sethrobertson.github.io/GitBestPractices/
+[Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
 
-Tips for a disciplined git workflow
-https://drewdevault.com/2019/02/25/Using-git-with-discipline.html
+[Tips for a disciplined git workflow](https://drewdevault.com/2019/02/25/Using-git-with-discipline.html)
 
-More productive Git
-https://increment.com/open-source/more-productive-git/
+[More productive Git](https://increment.com/open-source/more-productive-git/)
 
-Oh shit, git!
-https://ohshitgit.com/
+[Oh shit, git!](https://ohshitgit.com/)
 
-Cheat sheet: How to use Git
-https://codevog.com/de/blog/2016-03-24-cheat-sheet-how-to-use-it
+[Cheat sheet: How to use Git](https://codevog.com/de/blog/2016-03-24-cheat-sheet-how-to-use-it)
 
-Git Cheat Sheet
-https://gist.github.com/jedmao/5053440
+[Git Cheat Sheet](https://gist.github.com/jedmao/5053440)
 
-Git Cheat Sheet: Commands and Best Practices
-https://jrebel.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
+[Git Cheat Sheet: Commands and Best Practices](https://jrebel.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
 
 https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
 
-Write good git commit message
-https://juffalow.com/other/write-good-git-commit-message
+[Write good git commit message](https://juffalow.com/other/write-good-git-commit-message), [Hacker News Discussion](https://news.ycombinator.com/item?id=18663032)
 
-Hacker News Discussion
-https://news.ycombinator.com/item?id=18663032
-
-XKCD
-https://xkcd.com/1296/, https://xkcd.com/1597/, 
+XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 
 
 # Docker
