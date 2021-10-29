@@ -76,6 +76,8 @@ Emphasis is mine.
 > 1. If they say “yes,” you’re happy because the terms or money are so good, it more than compensates for the distraction, possibly even funding the thing you really want to do.
 > 1. If they say “no,” you’re happy because it wasn’t a great fit anyway, so it’s not worthwhile for a small return on your time and effort.
 
+[How to Get Lucky: Focus On The Fat Tails](https://taylorpearson.me/luck/)
+
 # UML / Database Design Tools
 
 [yUML](https://yuml.me/diagram/scruffy/class/draw)
