@@ -67,6 +67,14 @@ Emphasis is mine.
 
 [A Taxonomy for "Bad Code Smells"](http://mikamantyla.eu/BadCodeSmellsTaxonomy.html)
 
+# Consulting
+
+[Never say “no,” but rarely say “yes.”]{https://blog.asmartbear.com/how-to-say-yes.html}
+
+> So the principle is easy: Set the conditions of “yes” such that:
+>
+> If they say “yes,” you’re happy because the terms or money are so good, it more than compensates for the distraction, possibly even funding the thing you really want to do.
+> If they say “no,” you’re happy because it wasn’t a great fit anyway, so it’s not worthwhile for a small return on your time and effort.
 
 # UML / Database Design Tools
 
