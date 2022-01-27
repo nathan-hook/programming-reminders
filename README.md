@@ -67,6 +67,12 @@ Emphasis is mine.
 
 [A Taxonomy for "Bad Code Smells"](http://mikamantyla.eu/BadCodeSmellsTaxonomy.html)
 
+# How to Write Code
+
+[Learning Writing and Coding from a Con Artist|https://www.bitquabit.com/post/learning-writing-and-coding-from-a-con-artist/]
+
+> Get something that works, no matter how silly and brittle. Don’t think too hard about it: don’t worry about it being DRY, or being as fast as possible, or properly encapsulated, or anything else. Just get something that works. If it’s garbage, throw it out and start over; you barely spent any time on it anyway. Once it’s mostly not garbage, begin a refactoring pass. Make sure that what the code is doing is clear, concise, efficient, and above all, *makes sense to read* — because you *will* forget where your head was at in six months when you inevitably have to do some maintenance on this code.
+
 # Consulting
 
 [Never say “no,” but rarely say “yes.”](https://blog.asmartbear.com/how-to-say-yes.html)
