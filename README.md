@@ -67,6 +67,9 @@ Emphasis is mine.
 
 [A Taxonomy for "Bad Code Smells"](http://mikamantyla.eu/BadCodeSmellsTaxonomy.html)
 
+[Refactoring *Guru*](https://refactoring.guru/)
+> Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+
 # How to Write Code
 
 [Learning Writing and Coding from a Con Artist|https://www.bitquabit.com/post/learning-writing-and-coding-from-a-con-artist/]
