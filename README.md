@@ -196,6 +196,8 @@ http://www.hemingwayapp.com/
 [mockaroo](https://www.mockaroo.com/)
 > Need some mock data to test your app? Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 
+[Generate test data. Quickly.](https://generatedata.com/)
+
 # Web Api Design
 
 
