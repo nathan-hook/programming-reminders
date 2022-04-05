@@ -1,6 +1,6 @@
 Things to keep track of as a professional application developer and consultant...
 
-A lightly currated list of things for me to remember over time.
+A lightly currated list.
 
 # Programming is Hard
 
@@ -370,6 +370,7 @@ https://github.com/glenmccallumcan/HackerRank-Solutions
 Job negotiation for programmers: the basic principles
 https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/
 
+[Pramp](https://www.pramp.com/#/) - An interview prep website.
 
 # Interviewing Others
 
