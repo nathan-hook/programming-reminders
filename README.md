@@ -342,7 +342,7 @@ https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b5
 Cheat Sheets to link to:
 - maven (rebellabs)
 - sql (rebellabs)
-- intellij idea mac os x keymap ([JetBrains](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html), [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/intellij-idea-mac/cheatsheet)
+- intellij idea mac os x keymap ([JRebel (pdf)](https://www.jrebel.com/system/files/cheat-sheet-rebel-intellij-idea-web.pdf), [JetBrains](https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html), [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/intellij-idea-mac/cheatsheet))
 - git (nina jaeschke ninagrafik.com, jrebel, atlassian)
 - Java Streams ([JRebel (pdf)](https://www.jrebel.com/system/files/java-8-streams-cheat-sheet.pdf))
 - Java 8 Best Practices ([JRebel (pdf)](https://www.jrebel.com/system/files/java-8-best-practices-cheat-sheet.pdf))
