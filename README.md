@@ -233,6 +233,9 @@ https://dzone.com/articles/the-java-8-api-design-principles
 
 This article references the Java API Design Checklist above.
 
+# Java Flight Recorder
+
+https://github.com/wkorando/taking-off-with-jfr
 
 # Deployment
 
