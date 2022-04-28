@@ -54,6 +54,8 @@ https://www.w3.org/International/questions/qa-personal-names, https://r12a.githu
 
 [How To Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code)
 
+[Guide: Writing Testable Code](http://misko.hevery.com/code-reviewers-guide/)
+
 [S.O.L.I.D. Software Development, One Step at a Time](https://www.codemag.com/article/1001061)
 
 [Test-Driven Development: Really, It’s a Design Technique](https://www.infoq.com/articles/test-driven-design-java/)
