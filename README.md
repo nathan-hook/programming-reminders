@@ -10,7 +10,7 @@ A lightly currated list.
 
 [Let’s talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/)
 
-https://www.w3.org/International/questions/qa-personal-names, https://r12a.github.io/blog/200610#20070709, https://r12a.github.io/blog/200707#20070716, 
+[Personal names around the world 2](https://www.w3.org/International/questions/qa-personal-names, https://r12a.github.io/blog/200610#20070709, https://r12a.github.io/blog/200707#20070716)
 
 [Falsehoods Programmers Believe About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 
