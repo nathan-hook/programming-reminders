@@ -331,17 +331,14 @@ https://github.com/uswds/public-sans/blob/master/README.md#design-principles
 
 # Javascript Charts
 
-CHART.XKCD
-https://timqian.com/chart.xkcd/
+[CHART.XKCD](https://timqian.com/chart.xkcd/)
 
-roughViz - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
-https://github.com/jwilber/roughViz
+[roughViz - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser](https://github.com/jwilber/roughViz)
 
 
 # Website Accessability
 
-The easiest way to keep your web apps accessible: Just use text
-https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a
+[The easiest way to keep your web apps accessible: Just use text](https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a)
 
 
 # Distributed Systems
@@ -362,77 +359,61 @@ Cheat Sheets to link to:
 
 # Being Interviewed
 
-Interview Cake
-https://www.interviewcake.com/
+[Interview Cake](https://www.interviewcake.com/)
 
-The two questions I ask every interviewer
-http://blog.wesleyac.com/posts/two-interview-questions
-https://news.ycombinator.com/item?id=15599111
+[The two questions I ask every interviewer](http://blog.wesleyac.com/posts/two-interview-questions)
+[Harker News Discussion](https://news.ycombinator.com/item?id=15599111)
 
-Ask a Manager
-https://www.askamanager.org/topics
+[Ask a Manager](https://www.askamanager.org/topics)
 
-Why I Don't Prepare For Job Interviews
-https://dev.to/pbeekums/why-i-dont-prepare-for-job-interviews
-https://news.ycombinator.com/item?id=14219500
+[Why I Don't Prepare For Job Interviews](https://dev.to/pbeekums/why-i-dont-prepare-for-job-interviews)
+[Harker News Discussion](https://news.ycombinator.com/item?id=14219500)
 
-Ask HN: What are good software architecture interview questions?
-https://news.ycombinator.com/item?id=13472279
+[Ask HN: What are good software architecture interview questions?](https://news.ycombinator.com/item?id=13472279)
 
-Hacker Rank
-https://www.hackerrank.com/
+[Hacker Rank](https://www.hackerrank.com/)
 
-HackerRank-Solutions
-https://github.com/glenmccallumcan/HackerRank-Solutions
+[HackerRank-Solutions](https://github.com/glenmccallumcan/HackerRank-Solutions)
 
-Job negotiation for programmers: the basic principles
-https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/
+[Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 
 [Pramp](https://www.pramp.com/#/) - An interview prep website.
 
 # Interviewing Others
 
-The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance
-https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews
+[The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews)
 
-Refactoring Backend Engineering Hiring at Slack
-https://slack.engineering/refactoring-backend-engineering-hiring-at-slack-b53b1e0e7a3c
+[Refactoring Backend Engineering Hiring at Slack](https://slack.engineering/refactoring-backend-engineering-hiring-at-slack-b53b1e0e7a3c)
 
-Hacker News Discussion
-https://news.ycombinator.com/item?id=19564786
+[Hacker News Discussion](https://news.ycombinator.com/item?id=19564786)
 
-How NOT to hire a software engineer
-https://tonsky.me/blog/hiring/
+[How NOT to hire a software engineer](https://tonsky.me/blog/hiring/)
 
-How to Hire
-https://hbr.org/2018/01/how-to-hire
+[How to Hire](https://hbr.org/2018/01/how-to-hire)
 
-What we've learned about hiring engineering managers
-https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
+[What we've learned about hiring engineering managers](https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/)
 
-How we interview engineers at CircleCI
-https://circleci.com/blog/how-we-interview-engineers-at-circleci/
+[How we interview engineers at CircleCI](https://circleci.com/blog/how-we-interview-engineers-at-circleci/)
 
-Why we re-designed our engineering career paths at CircleCI
-https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/
+[Why we re-designed our engineering career paths at CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
 
+Send interview questions about 1 hour to 1/2 hour before the interview.
+
+Look for smaller 
 
 # Work Life Balance
-It is perfectly OK to only code at work, you can have a life too
-https://zeroequalsfalse.com/posts/it-is-ok-to-only-code-at-work/
+
+[It is perfectly OK to only code at work, you can have a life too](https://zeroequalsfalse.com/posts/it-is-ok-to-only-code-at-work/)
 
 # Quick Company Links
 
-My Brand New Logo
-https://mybrandnewlogo.com/
+[My Brand New Logo](https://mybrandnewlogo.com/)
 
-HOW TO REGISTER A COMPANY IN THE USA: COMPREHENSIVE GUIDE FOR FOUNDERS
-http://aynuriev.com/how-to-register-company-usa/
+[HOW TO REGISTER A COMPANY IN THE USA: COMPREHENSIVE GUIDE FOR FOUNDERS](http://aynuriev.com/how-to-register-company-usa/)
 
 
 # Links to Other Folk's Curated Links
-My Personal Linklog
-http://msaavedra.com/posts/my-personal-linklog/
 
-The Motherboard Guide to Not Getting Hacked
-https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
+[My Personal Linklog](http://msaavedra.com/posts/my-personal-linklog/)
+
+[The Motherboard Guide to Not Getting Hacked](https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide)
