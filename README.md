@@ -165,40 +165,30 @@ https://hygger.io/blog/4-powerful-factors-rice-scoring-model/
 
 # Mentoring
 
-The Art of Scholarly Mentoring
-https://www.insidehighered.com/advice/2021/01/26/nobel-laureate-shares-10-rules-being-effective-mentor-young-research-scholars
+[The Art of Scholarly Mentoring](https://www.insidehighered.com/advice/2021/01/26/nobel-laureate-shares-10-rules-being-effective-mentor-young-research-scholars)
 
 # HTTP
 
-HTTP headers for the responsible developer
-https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
+[HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 
-HOW HTTPS WORKS
-https://howhttps.works
+[HOW HTTPS WORKS](https://howhttps.works)
 
 
 # Web Development
 
-Certificates for localhost
-https://letsencrypt.org/docs/certificates-for-localhost/
+[Let's Encrypt Certificates for localhost](https://letsencrypt.org/docs/certificates-for-localhost/)
 
-Do You Really Know CORS?
-http://performantcode.com/web/do-you-really-know-cors
+[Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors)
 
-API Practices If You Hate Your Customers
-https://queue.acm.org/detail.cfm?id=3375635
+[API Practices If You Hate Your Customers](https://queue.acm.org/detail.cfm?id=3375635)
 
-Scaling to 100k Users
-https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
+[Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 
-Web Architecture 101
-https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+[Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
-Smart PNG and JPEG compression
-https://tinypng.com/
+[Smart PNG and JPEG compression](https://tinypng.com/)
 
-Hemingway App makes your writing bold and clear.
-http://www.hemingwayapp.com/
+[Hemingway App makes your writing bold and clear.](http://www.hemingwayapp.com/)
 
 
 # Mock Data
@@ -214,60 +204,45 @@ http://www.hemingwayapp.com/
 
 # Web Design
 
-Adobe Color
-https://color.adobe.com/create/color-wheel
+[Adobe Color](https://color.adobe.com/create/color-wheel)
 
-Color Brewer 2.0
-http://colorbrewer2.org/#type=sequential&scheme=OrRd&n=9
+[Color Brewer 2.0](http://colorbrewer2.org/#type=sequential&scheme=OrRd&n=9)
 
-Things I Wish I’d Known About CSS
-https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+[Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 
-Learn CSS
-https://web.dev/learn/css/
+[Learn CSS](https://web.dev/learn/css/)
 
-HTML 5 Cheat Sheet
-https://websitesetup.org/html5-cheat-sheet/
+[HTML 5 Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
 
 # API Design
 
-Java API Design Checklist
-https://theamiableapi.com/2012/01/16/java-api-design-checklist/
+[Java API Design Checklist](https://theamiableapi.com/2012/01/16/java-api-design-checklist/)
 
-API Design With Java 8
-https://dzone.com/articles/the-java-8-api-design-principles
+[API Design With Java 8](https://dzone.com/articles/the-java-8-api-design-principles)
 
 This article references the Java API Design Checklist above.
 
 # Java Flight Recorder
 
-https://github.com/wkorando/taking-off-with-jfr
+https://github.com/wkorando/taking-off-with-jfr (pdf)
 
 # Deployment
 
-12 Factor Apps with Spring Boot
-https://reflectoring.io/spring-boot-12-factor-app/
+[12 Factor Apps with Spring Boot](https://reflectoring.io/spring-boot-12-factor-app/)
 
-Java Microservices: A Practical Guide
-https://www.marcobehler.com/guides/java-microservices-a-practical-guide
+[Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
 
 
 # Database
 
-About Pool Sizing
-https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
+[About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
+[Hacker News Discussion](https://news.ycombinator.com/item?id=18425923)
 
-Hacker News Discussion
-https://news.ycombinator.com/item?id=18425923
+[How to Manage Connections Efficiently in Postgres, or Any Database](https://brandur.org/postgres-connections)
 
-How to Manage Connections Efficiently in Postgres, or Any Database
-https://brandur.org/postgres-connections
+[MY ADVICE TO DEVELOPERS ABOUT WORKING WITH DATABASES: MAKE IT SECURE](https://techblog.bozho.net/my-advice-to-developers-about-working-with-databases-make-it-secure/)
 
-MY ADVICE TO DEVELOPERS ABOUT WORKING WITH DATABASES: MAKE IT SECURE
-https://techblog.bozho.net/my-advice-to-developers-about-working-with-databases-make-it-secure/
-
-Things I Wished More Developers Knew About Databases
-https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78
+[Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 
 # Git
 
@@ -300,35 +275,25 @@ XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 
 # Docker
 
-Broken by default: why you should avoid most Dockerfile examples
-https://pythonspeed.com/articles/dockerizing-python-is-hard/
+[Broken by default: why you should avoid most Dockerfile examples](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
 
-Intro Guide to Dockerfile Best Practices
-https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/
-
-Hacker News Discussion
-https://news.ycombinator.com/item?id=20381388
+[Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
+[Hacker News Discussion](https://news.ycombinator.com/item?id=20381388)
 
 
 # User Interface/User Experience
 
-10 Usability Heuristics for User Interface Design
-https://www.nngroup.com/articles/ten-usability-heuristics/
+[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
-Fundamental design principles for non-designers
-https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/
+[Fundamental design principles for non-designers](https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/)
 
-Remove password masking
-http://passwordmasking.com/
+[Remove password masking](http://passwordmasking.com/)
 
-Rules for Autocomplete
-http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html
+[Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html)
 
-Public Sans
-https://public-sans.digital.gov/
+[Public Sans](https://public-sans.digital.gov/)
 
-Public Sans - Github
-https://github.com/uswds/public-sans/blob/master/README.md#design-principles
+[Public Sans - Github](https://github.com/uswds/public-sans/blob/master/README.md#design-principles)
 
 
 # Javascript Charts
