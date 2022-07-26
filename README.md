@@ -4,6 +4,8 @@ A lightly currated list.
 
 # Programming is Hard
 
+Write a corollary story to an [Autobiography in Five Short Chapters](http://www.didoo.net/2018/03/autobiography-in-five-short-chapters/), but add something about I'm facing a new software problem...  And then at the end add a goto chapter 1.
+
 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
 [Curated list of falsehoods programmers believe in.](https://github.com/kdeldycke/awesome-falsehood)
