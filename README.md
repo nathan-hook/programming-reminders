@@ -378,6 +378,8 @@ Look for smaller
 
 [HOW TO REGISTER A COMPANY IN THE USA: COMPREHENSIVE GUIDE FOR FOUNDERS](http://aynuriev.com/how-to-register-company-usa/)
 
+[Have I Been Squatted?](https://haveibeensquatted.com/)
+Check if your domain has been squatted
 
 # Links to Other Folk's Curated Links
 
