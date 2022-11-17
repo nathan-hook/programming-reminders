@@ -372,6 +372,8 @@ Look for smaller
 
 [It is perfectly OK to only code at work, you can have a life too](https://zeroequalsfalse.com/posts/it-is-ok-to-only-code-at-work/)
 
+[The Seven Levels of Busy](https://randsinrepose.com/archives/the-seven-levels-of-busy/)
+
 # Quick Company Links
 
 [My Brand New Logo](https://mybrandnewlogo.com/)
