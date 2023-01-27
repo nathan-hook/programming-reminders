@@ -344,6 +344,8 @@ Cheat Sheets to link to:
 
 [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 
+[Contracts you should never sign](https://vadimkravcenko.com/shorts/contracts-you-should-never-sign/), [Hacker News Discussion](https://news.ycombinator.com/item?id=34544008)
+
 [Pramp](https://www.pramp.com/#/) - An interview prep website.
 
 # Interviewing Others
