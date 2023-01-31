@@ -323,6 +323,9 @@ Cheat Sheets to link to:
 - Java 8 Best Practices ([JRebel (pdf)](https://www.jrebel.com/system/files/java-8-best-practices-cheat-sheet.pdf))
 - [HTML5](https://websitesetup.org/html5-cheat-sheet/)
 
+# Resume Building
+
+[What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
 
 # Being Interviewed
 
