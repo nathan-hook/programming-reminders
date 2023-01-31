@@ -375,6 +375,10 @@ Send interview questions about 1 hour to 1/2 hour before the interview.
 
 Look for smaller 
 
+# Management Interaction
+
+[Ask HN: What do you talk about in 1-on-1s with your managers?](https://news.ycombinator.com/item?id=34329351)
+
 # Work Life Balance
 
 [It is perfectly OK to only code at work, you can have a life too](https://zeroequalsfalse.com/posts/it-is-ok-to-only-code-at-work/)
