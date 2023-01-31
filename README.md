@@ -325,7 +325,7 @@ Cheat Sheets to link to:
 
 # Resume Building
 
-[What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+[What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html), [Hacker News Discussion](https://news.ycombinator.com/item?id=34519268)
 
 A well written article that talks about how to write a resume that can be read by humans, showing true impact with your work and how you get work done.
 
