@@ -327,6 +327,8 @@ Cheat Sheets to link to:
 
 [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
 
+A well written article that talks about how to write a resume that can be read by humans, showing true impact with your work and how you get work done.
+
 # Being Interviewed
 
 [Interview Cake](https://www.interviewcake.com/)
