@@ -355,6 +355,8 @@ A well written article that talks about how to write a resume that can be read b
 
 [Pramp](https://www.pramp.com/#/) - An interview prep website.
 
+[How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+
 # Interviewing Others
 
 [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews)
