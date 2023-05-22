@@ -329,6 +329,8 @@ Cheat Sheets to link to:
 
 A well written article that talks about how to write a resume that can be read by humans, showing true impact with your work and how you get work done.
 
+[Improve Your Résumé by Turning Bullet Points into Stories](https://hbr.org/2016/05/improve-your-resume-by-turning-bullet-points-into-stories)
+
 # Being Interviewed
 
 [Interview Cake](https://www.interviewcake.com/)
