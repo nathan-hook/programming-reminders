@@ -331,6 +331,8 @@ A well written article that talks about how to write a resume that can be read b
 
 [Improve Your Résumé by Turning Bullet Points into Stories](https://hbr.org/2016/05/improve-your-resume-by-turning-bullet-points-into-stories)
 
+[How to use numbers to make your resume more impressive to potential employers](https://www.monster.com/career-advice/article/use-numbers-to-make-your-resume-seem-more-impressive-0916)
+
 # Being Interviewed
 
 [Interview Cake](https://www.interviewcake.com/)
