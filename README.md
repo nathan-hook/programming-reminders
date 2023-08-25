@@ -288,6 +288,8 @@ XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 
 [Fundamental design principles for non-designers](https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/)
 
+[Dark Patterns: 10 Examples of Manipulative Consent Requests](https://wideangle.co/blog/dark-patterns-examples-of-manipulative-consent-requests)
+
 [Remove password masking](http://passwordmasking.com/)
 
 [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html)
