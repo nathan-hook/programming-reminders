@@ -312,6 +312,10 @@ XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 
 [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/), [Hacker News Discussion](https://news.ycombinator.com/item?id=12245909)
 
+[An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+
+> CRDT stands for “Conflict-free Replicated Data Type”. That’s a long acronym, but the concept isn’t too complicated. It’s a kind of data structure that can be stored on different computers (peers). Each peer can update its own state instantly, without a network request to check with other peers. Peers may have different states at different points in time, but are guaranteed to eventually converge on a single agreed-upon state. That makes CRDTs great for building rich collaborative apps, like Google Docs and Figma — without requiring a central server to sync changes.
+
 # Cheat Sheets
 
 Cheat Sheets to link to:
