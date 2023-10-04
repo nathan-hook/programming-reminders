@@ -145,14 +145,11 @@ However, after 2013 hibernate introduced a more aggressive database release mode
 
 # Scrum/Scrum Master/Agile
 
-Backlog Grooming Bugs Me
-https://www.jpattonassociates.com/backlog-grooming-bugs-me/
+[Backlog Grooming Bugs Me](https://www.jpattonassociates.com/backlog-grooming-bugs-me/)
 
-How ICE Score Method Helps to Choose Better Product Features
-https://hygger.io/blog/ice-method-helps-choose-better-product-features/
+[How ICE Score Method Helps to Choose Better Product Features](https://hygger.io/blog/ice-method-helps-choose-better-product-features/)
 
-RICE Scoring: Quick Prioritization for Product Managers
-https://hygger.io/blog/4-powerful-factors-rice-scoring-model/
+[RICE Scoring: Quick Prioritization for Product Managers](https://hygger.io/blog/4-powerful-factors-rice-scoring-model/)
 
 [On the importance of a Team Manifesto](https://blog.scottlogic.com/2021/01/26/on-the-importance-of-a-team-manifesto.html)
 
