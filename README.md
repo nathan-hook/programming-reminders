@@ -46,7 +46,7 @@ Write a corollary story to an [Autobiography in Five Short Chapters](http://www.
 
 # Money and Payments
 
-[Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer`)
+[Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer`), [Hacker News Discussion](https://news.ycombinator.com/item?id=35714145)
 
 # Security
 
