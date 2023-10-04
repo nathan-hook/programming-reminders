@@ -44,6 +44,9 @@ Write a corollary story to an [Autobiography in Five Short Chapters](http://www.
 
 [All software advice is wrong](https://mdswanson.com/blog/2020/10/31/every-article-about-software-is-wrong.html)
 
+# Money and Payments
+
+[Payments 101 for a Developer](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer`)
 
 # Security
 
