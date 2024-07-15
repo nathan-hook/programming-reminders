@@ -102,6 +102,8 @@ Emphasis is mine.
 
 [How to Get Lucky: Focus On The Fat Tails](https://taylorpearson.me/luck/)
 
+[Mike Monteiro: F*ck You, Pay Me - from CreativeMornings](https://youtu.be/jVkLVRt6c1U?si=Vp4ecI7UEIislBAL) - YouTube
+
 # UML / Database Design Tools
 
 [yUML](https://yuml.me/diagram/scruffy/class/draw)
