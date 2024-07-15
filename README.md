@@ -281,6 +281,9 @@ https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
 
 XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 
+# CI/CD
+
+[What Is Linting + When to Use Lint Tools](https://www.perforce.com/blog/qac/what-is-linting)
 
 # Docker
 
