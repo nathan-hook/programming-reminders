@@ -104,6 +104,8 @@ Emphasis is mine.
 
 [Mike Monteiro: F*ck You, Pay Me - from CreativeMornings](https://youtu.be/jVkLVRt6c1U?si=Vp4ecI7UEIislBAL) - YouTube
 
+[Mike Monteiro: 13 Ways Designers Screw Up Client Presentations](https://youtu.be/IXXKqwrEql4?si=uHXPoTINQ3LLqe5-) - YouTube
+
 # UML / Database Design Tools
 
 [yUML](https://yuml.me/diagram/scruffy/class/draw)
