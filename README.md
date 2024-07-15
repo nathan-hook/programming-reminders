@@ -172,6 +172,10 @@ However, after 2013 hibernate introduced a more aggressive database release mode
 
 [The Art of Scholarly Mentoring](https://www.insidehighered.com/advice/2021/01/26/nobel-laureate-shares-10-rules-being-effective-mentor-young-research-scholars)
 
+[10 Executive Functioning Skills: The Ultimate Guide](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/)
+
+[Executive Functioning Skills](https://www.thepathway2success.com/executive-functioning-skills/)
+
 # HTTP
 
 [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
