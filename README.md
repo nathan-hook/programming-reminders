@@ -168,6 +168,10 @@ However, after 2013 hibernate introduced a more aggressive database release mode
 
 [Uncovering Better Ways](https://benjiweber.co.uk/blog/2021/07/03/uncovering-better-ways/)
 
+# Ambiguity
+
+[What’s the difference between a junior and a senior engineer](https://medium.com/@corymaklin/whats-the-difference-between-a-junior-and-a-senior-engineer-79436735cf78)
+
 # Mentoring
 
 [The Art of Scholarly Mentoring](https://www.insidehighered.com/advice/2021/01/26/nobel-laureate-shares-10-rules-being-effective-mentor-young-research-scholars)
