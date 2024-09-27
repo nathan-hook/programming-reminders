@@ -180,6 +180,16 @@ However, after 2013 hibernate introduced a more aggressive database release mode
 
 [Executive Functioning Skills](https://www.thepathway2success.com/executive-functioning-skills/)
 
+# Performance Metrics
+
+[HubSpot Engineering Performance Rubric](https://github.hubspot.com/engineering-rubric/)
+
+[A Rubric for Evaluating Team Members’ Contributions to a Maintainable Code Base](https://chelseatroy.com/2021/10/29/a-rubric-for-evaluating-team-members-contributions-to-a-maintainable-code-base/)
+
+[Software Engineering Assessment Rubric](https://ccecc.acm.org/guidance/software-engineering/rubric/)
+
+[One Rubric Changed Box's Engineering Performance — Here's How](https://review.firstround.com/one-rubric-changed-boxs-engineering-performance-heres-how/), Box's SVP Engineering Sam Schillace on the rubric that has helped the company build and maintain a culture of high performance.
+
 # HTTP
 
 [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
@@ -404,7 +414,15 @@ A well written article that talks about how to write a resume that can be read b
 
 Send interview questions about 1 hour to 1/2 hour before the interview.
 
-Look for smaller 
+## Interview Rubrics
+
+[How to hire great software engineers with interview rubrics](https://karat.com/interview-engineering-how-to-create-a-structured-rubric-for-technical-interviews/)
+
+[Interview rubrics are a great way to reduce bias. Here's how to build a rubric for any technical role.](https://leaddev.com/hiring-onboarding-retention/how-create-interview-rubric-actually-works)
+
+[Engineering interviews: grading rubric](https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f), Part three of a three part guide to conducting engineering interviews at Medium.  Beginning article [Engineering interviews: refining our process](https://medium.engineering/engineering-interviews-refining-our-process-52fbc9510e91)
+
+[The Golden Rubric for Technical Interviews](https://medium.com/swlh/the-golden-rubric-for-technical-interviews-2f087ef2ba1)
 
 # Management Interaction
 
