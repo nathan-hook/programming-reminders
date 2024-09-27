@@ -368,6 +368,8 @@ A well written article that talks about how to write a resume that can be read b
 [Why I Don't Prepare For Job Interviews](https://dev.to/pbeekums/why-i-dont-prepare-for-job-interviews)
 [Harker News Discussion](https://news.ycombinator.com/item?id=14219500)
 
+[How candidates are evaluated in coding interviews at top tech companies](https://www.techinterviewhandbook.org/coding-interview-rubrics/)
+
 [Ask HN: What are good software architecture interview questions?](https://news.ycombinator.com/item?id=13472279)
 
 [Hacker Rank](https://www.hackerrank.com/)
