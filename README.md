@@ -91,6 +91,14 @@ Emphasis is mine.
 
 > Get something that works, no matter how silly and brittle. Don’t think too hard about it: don’t worry about it being DRY, or being as fast as possible, or properly encapsulated, or anything else. Just get something that works. If it’s garbage, throw it out and start over; you barely spent any time on it anyway. Once it’s mostly not garbage, begin a refactoring pass. Make sure that what the code is doing is clear, concise, efficient, and above all, *makes sense to read* — because you *will* forget where your head was at in six months when you inevitably have to do some maintenance on this code.
 
+[Oh, The Cleverness Of Me](https://paddy.carvers.com/posts/cleverness/)
+
+> The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility, and avoids clever tricks like the plague.
+> —Edsgar W. Dijkstra
+
+From the last paragraph:
+> TL;DR: cleverness is only ever justified if it makes the structure and behaviour of your program clearer. Clarity is king, not concision. Keystrokes are cheap compared to the amount of effort it requires to read your obfuscated code.
+
 # Consulting
 
 [Never say “no,” but rarely say “yes.”](https://blog.asmartbear.com/how-to-say-yes.html)
