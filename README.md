@@ -94,8 +94,7 @@ Emphasis is mine.
 [Oh, The Cleverness Of Me](https://paddy.carvers.com/posts/cleverness/)
 
 > The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility, and avoids clever tricks like the plague.
-> 
-> - Edsgar W. Dijkstra
+> -Edsgar W. Dijkstra
 
 From the last paragraph:
 > TL;DR: cleverness is only ever justified if it makes the structure and behaviour of your program clearer. Clarity is king, not concision. Keystrokes are cheap compared to the amount of effort it requires to read your obfuscated code.
