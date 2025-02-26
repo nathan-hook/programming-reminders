@@ -332,6 +332,9 @@ XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 
 [Public Sans - Github](https://github.com/uswds/public-sans/blob/master/README.md#design-principles)
 
+# Javascript
+
+[Human JavaScript](https://read.humanjavascript.com/), an interesting take on how to not write [spaghett](https://giphy.com/explore/its-spaghett) javascript code.
 
 # Javascript Charts
 
