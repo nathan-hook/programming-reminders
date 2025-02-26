@@ -180,6 +180,10 @@ However, after 2013 hibernate introduced a more aggressive database release mode
 
 [What’s the difference between a junior and a senior engineer](https://medium.com/@corymaklin/whats-the-difference-between-a-junior-and-a-senior-engineer-79436735cf78)
 
+# Career Advancement
+
+[Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
+
 # Mentoring
 
 [The Art of Scholarly Mentoring](https://www.insidehighered.com/advice/2021/01/26/nobel-laureate-shares-10-rules-being-effective-mentor-young-research-scholars)
@@ -322,6 +326,8 @@ XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 
 [Fundamental design principles for non-designers](https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/)
 
+[Designing Better Error Messages UX](https://www.smashingmagazine.com/2022/08/error-messages-ux-design/), really good advice and examples.
+
 [Dark Patterns: 10 Examples of Manipulative Consent Requests](https://wideangle.co/blog/dark-patterns-examples-of-manipulative-consent-requests)
 
 [Remove password masking](http://passwordmasking.com/)
@@ -331,6 +337,8 @@ XKCD: [1296](https://xkcd.com/1296/), [1597](https://xkcd.com/1597/)
 [Public Sans](https://public-sans.digital.gov/)
 
 [Public Sans - Github](https://github.com/uswds/public-sans/blob/master/README.md#design-principles)
+
+[Problems I no longer have by using Server-side rendering](https://www.wimdeblauwe.com/blog/2024/12/31/problems-i-no-longer-have-by-using-server-side-rendering/)
 
 # Javascript
 
