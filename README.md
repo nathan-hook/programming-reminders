@@ -99,6 +99,23 @@ Emphasis is mine.
 From the last paragraph:
 > TL;DR: cleverness is only ever justified if it makes the structure and behaviour of your program clearer. Clarity is king, not concision. Keystrokes are cheap compared to the amount of effort it requires to read your obfuscated code.
 
+# Architecture
+
+## Hexagonal / Onion
+
+You learned about Hexagonal/Onion Architecture from a post on Reddit.
+
+[DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
+[Hexagonal Architecture, there are always two sides to every story](https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c)
+
+[domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+
+The above person put together several very comprehensive guides on writing software that are quite good:
+* [Backend best practices](https://github.com/Sairyss/backend-best-practices)
+* [System Design Patterns](https://github.com/Sairyss/system-design-patterns)
+* [Full stack starter template](https://github.com/Sairyss/fullstack-starter-template)
+
 # Consulting
 
 [Never say “no,” but rarely say “yes.”](https://blog.asmartbear.com/how-to-say-yes.html)
