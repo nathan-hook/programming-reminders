@@ -6,7 +6,7 @@ A lightly currated list.
 
 Write a corollary story to an [Autobiography in Five Short Chapters](http://www.didoo.net/2018/03/autobiography-in-five-short-chapters/), but add something about I'm facing a new software problem...  And then at the end add a goto chapter 1.
 
-[Software Engineering Lessons from RCAs of world's greatest disasters](https://anoopdixith.com/disasters/), this article was amazing.  It just takes everything from below and sums it up in terrible tragities and how those tragities could have been avoided.
+[Software Engineering Lessons from RCAs of world's greatest disasters](https://anoopdixith.com/disasters/), this article was amazing.  It just takes everything from below and sums it up in terrible life ending tragities and how those tragities could have been avoided.
 
 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know), contains the following topics: Introduction, Falsehoods, Algorithms, Data Structures, Numbers, Strings, Latency, Time, Memory, Distributed Systems, Security, UX/Usability, SEO, Architecture, Code Design, Engineering Philosophy, Practices, Career, Fine-tune Your Resume, Open Source, Remote Work, Problem Solving, Soft Skills, Mental Health, Papers on Programming, Services, Licenses, Where To Look For Further Info, and Coding Practice Sites.
 
