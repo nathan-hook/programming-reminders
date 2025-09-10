@@ -139,6 +139,12 @@ The above person put together several very comprehensive guides on writing softw
 
 [Mike Monteiro: 13 Ways Designers Screw Up Client Presentations](https://youtu.be/IXXKqwrEql4?si=uHXPoTINQ3LLqe5-) - YouTube
 
+# Personal Projects
+
+[Buy me a coffee](https://buymeacoffee.com/).
+
+> Fund your creative work. Accept support. Start a membership. Setup a shop. It’s easier than you think.
+
 # UML / Database Design Tools
 
 [yUML](https://yuml.me/diagram/scruffy/class/draw)
