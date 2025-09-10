@@ -478,17 +478,17 @@ Send interview questions about 1 hour to 1/2 hour before the interview.
 
 [The Seven Levels of Busy](https://randsinrepose.com/archives/the-seven-levels-of-busy/)
 
-> Level 1: NOT BUSY My schedule is wide open. I can choose infinite paths. Zero commitments. The weekend. I sleep like a baby. Life is good, but am I living my best life?
-> Level 2: STUFF TO DO I have a few commitments wandering around my brain. They are reasonable, knowable, and not deadline-based. I can keep track of everything in my head.
-> Level 3: SIGNIFICANT COMMITMENTS I have enough commitments that I need to keep track of them in a tool because I can no longer organically triage. My calendar is a thing I check infrequently, but I do check it to remind myself of the flavor of this particular day.
-> Level 4: AT CAPACITY My to-do and my calendar are full. I frequently have to make “What is more important?” decisions to help me figure out where to invest my time. There is no unscheduled time, but I continue to feel on top of things. Inbox zero maintained.
-> Level 5: CRACKS IN THE FACADE I tell myself I’m on top of all the things, but there are early signs of excessive work. This is when Inbox Zero fails. I know daily surprises could be avoided if I had… just a bit more time. I start saying “I’m sorry” a lot. Stuff isn’t getting dropped, but execution becomes sloppy.
-> Level 6: CRUSHING COMMITMENTS The incoming amount of things are beyond my ability to triage them. Change is constant. Just saying “No” to inbound things is not enough. Stuff is falling on the floor, and I’m not noticing. Work hours spill into life hours. Tired.
+> Level 1: NOT BUSY My schedule is wide open. I can choose infinite paths. Zero commitments. The weekend. I sleep like a baby. Life is good, but am I living my best life?  
+> Level 2: STUFF TO DO I have a few commitments wandering around my brain. They are reasonable, knowable, and not deadline-based. I can keep track of everything in my head.  
+> Level 3: SIGNIFICANT COMMITMENTS I have enough commitments that I need to keep track of them in a tool because I can no longer organically triage. My calendar is a thing I check infrequently, but I do check it to remind myself of the flavor of this particular day.  
+> Level 4: AT CAPACITY My to-do and my calendar are full. I frequently have to make “What is more important?” decisions to help me figure out where to invest my time. There is no unscheduled time, but I continue to feel on top of things. Inbox zero maintained.  
+> Level 5: CRACKS IN THE FACADE I tell myself I’m on top of all the things, but there are early signs of excessive work. This is when Inbox Zero fails. I know daily surprises could be avoided if I had… just a bit more time. I start saying “I’m sorry” a lot. Stuff isn’t getting dropped, but execution becomes sloppy.  
+> Level 6: CRUSHING COMMITMENTS The incoming amount of things are beyond my ability to triage them. Change is constant. Just saying “No” to inbound things is not enough. Stuff is falling on the floor, and I’m not noticing. Work hours spill into life hours. Tired.  
 > Level 7: UNSUSTAINABLE I live minute to minute. Eating and other necessities are shoved in-between things, but eating and other necessities are frequently neglected. To-do lists do not help me here because I do not have time to maintain them. My calendar changes from hour to hour. It is clear by how I walk how busy I am. I get a lot of unintentional “He’s screwed” looks. Zero work-life balance. This is not sustainable.
 
 [How many hours can you actually be productive in a day?](https://amazingmarvin.com/blog/how-many-hours-can-you-actually-be-productive-in-a-day/)
 
-> One company that uses time tracking for their employees analyzed the data from their workers and saw that the most productive 10% of people worked 52 min for every 17 min break.
+> One company that uses time tracking for their employees analyzed the data from their workers and saw that the most productive 10% of people worked 52 min for every 17 min break.  
 > While I don’t want want to get into whether there is anything magical about this break pattern, what we are interested in is that this pattern translates to a total of about 6 hours in an 8-hour workday for the most productive people.
 
 Further down...
