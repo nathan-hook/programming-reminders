@@ -116,6 +116,14 @@ The above person put together several very comprehensive guides on writing softw
 * [System Design Patterns](https://github.com/Sairyss/system-design-patterns)
 * [Full stack starter template](https://github.com/Sairyss/fullstack-starter-template)
 
+## Event Driven / CQRS
+
+[What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html), Martin Fowler
+
+[CQRS Documents by Greg Young](https://cqrs.wordpress.com/wp-content/uploads/2010/11/cqrs_documents.pdf), pdf.  Greg Young originally coined the term CQRS (Command Query Responsibility Segregation).
+
+[CQRS Myths: 3 Most Common Misconceptions](https://codeopinion.com/cqrs-myths-3-most-common-misconceptions/)
+
 # Consulting
 
 [Never say “no,” but rarely say “yes.”](https://blog.asmartbear.com/how-to-say-yes.html)
