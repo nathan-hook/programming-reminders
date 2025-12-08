@@ -145,6 +145,10 @@ The above person put together several very comprehensive guides on writing softw
 
 > Fund your creative work. Accept support. Start a membership. Setup a shop. It’s easier than you think.
 
+[How To Accept Monero Payments](https://blog.monerica.com/articles/how-to-accept-monero-payments)
+
+[Getting Paid in Crypto: How, Why, Pros & Cons [2025]](https://www.blockpit.io/en-us/blog/getting-paid-in-crypto)
+
 # UML / Database Design Tools
 
 [yUML](https://yuml.me/diagram/scruffy/class/draw)
@@ -443,6 +447,8 @@ A well written article that talks about how to write a resume that can be read b
 [Pramp](https://www.pramp.com/#/) - An interview prep website.
 
 [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+
+[15 Sorting Algorithms in 6 Minutes](https://youtu.be/kPRA0W1kECg?si=EP73JlXwU_Sifvv0)
 
 # Interviewing Others
 
