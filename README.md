@@ -124,6 +124,11 @@ The above person put together several very comprehensive guides on writing softw
 
 [CQRS Myths: 3 Most Common Misconceptions](https://codeopinion.com/cqrs-myths-3-most-common-misconceptions/)
 
+# Spring
+
+[What is Spring Framework? An Unorthodox Guide](https://www.marcobehler.com/guides/spring-framework), an absolutly great write up about the power of the spring framework and its usage
+of dependecy injections.  Give this link to your interns.
+
 # Consulting
 
 [Never say “no,” but rarely say “yes.”](https://blog.asmartbear.com/how-to-say-yes.html)
