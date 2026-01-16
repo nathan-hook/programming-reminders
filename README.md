@@ -99,6 +99,15 @@ Emphasis is mine.
 From the last paragraph:
 > TL;DR: cleverness is only ever justified if it makes the structure and behaviour of your program clearer. Clarity is king, not concision. Keystrokes are cheap compared to the amount of effort it requires to read your obfuscated code.
 
+# Testing
+
+[Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html), martinfowler.com
+
+[We Need to Stop Calling Everything a Mock!](https://youtu.be/RvKPOjlQKyM?si=2-TdW2N9EiArP35L), YouTube, Modern Software Engineering.
+
+[The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html), Uncle Bob's Clean Coder Blog.  Not my favorite way of explaining the differences between
+the different types of Testing Doubles.
+
 # Architecture
 
 ## Hexagonal / Onion
