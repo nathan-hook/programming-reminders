@@ -114,6 +114,8 @@ the different types of Testing Doubles.
 
 You learned about Hexagonal/Onion Architecture from a post on Reddit.
 
+[I finally understood Hexagonal Architecture after mapping it to working code](https://www.reddit.com/r/softwarearchitecture/comments/1pb9zge/i_finally_understood_hexagonal_architecture_after/), reddit post.
+
 [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
 [Hexagonal Architecture, there are always two sides to every story](https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c)
