@@ -155,7 +155,7 @@ of dependecy injections.  Give this link to your interns.
 
 [Mike Monteiro: 13 Ways Designers Screw Up Client Presentations](https://youtu.be/IXXKqwrEql4?si=uHXPoTINQ3LLqe5-) - YouTube
 
-# Personal Projects
+# Funding Personal Projects
 
 [Buy me a coffee](https://buymeacoffee.com/).
 
